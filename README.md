@@ -5,11 +5,9 @@
 ## Project Overview
 
 This project demonstrates the use of Stable Diffusion, a pre-trained text-to-image generative AI model, to generate realistic and creative images from natural language prompts. By leveraging a diffusion-based model, the project converts textual descriptions into high-quality visual outputs without training a model from scratch.
----
 ## Objective
 
 The objective of this project is to generate high-quality images from natural language prompts using the Stable Diffusion pre-trained model. This project also aims to explore prompt engineering techniques and understand how different text descriptions influence the quality and creativity of AI-generated images.
----
 ## Technologies Used
 
 - **Python** – Programming language used for implementation.
@@ -18,7 +16,6 @@ The objective of this project is to generate high-quality images from natural la
 - **Hugging Face Diffusers** – Library for loading and running Stable Diffusion.
 - **PyTorch** – Deep learning framework used by the model.
 - **CUDA (Tesla T4 GPU)** – GPU acceleration for faster image generation.
----
 ## Features
 
 - Generates images from natural language text prompts.
@@ -26,7 +23,6 @@ The objective of this project is to generate high-quality images from natural la
 - Produces creative and realistic AI-generated images.
 - Supports experimenting with different prompts and styles.
 - Saves generated images for further use and analysis.
----
 ## Project Workflow
 
 1. Set up the Google Colab environment.
