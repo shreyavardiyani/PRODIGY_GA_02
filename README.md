@@ -36,23 +36,23 @@ The objective of this project is to generate high-quality images from natural la
 
 Below are a few sample images generated using the Stable Diffusion pre-trained model. Additional generated images are available in the **generated_images** folder.
 
-### 🚤 Boat
+### Boat
 
-**Prompt:** *A peaceful wooden boat floating on a calm lake during sunset, photorealistic.*
+**Prompt:** *A peaceful wooden boat floating on a ocean, in storm, photorealistic.*
 
 ![Boat](generated_images/Boat.png)
 
 ---
 
-### 🦆 Duck in Puddle
+### Duck in Puddle
 
-**Prompt:** *A tiny duck wearing a yellow raincoat standing in a puddle, photorealistic.*
+**Prompt:** *A tiny duck standing in a puddle, photorealistic.*
 
 ![Duck in Puddle](generated_images/Duck_in_puddle.png)
 
 ---
 
-### ☕ Hot Chocolate
+###  Hot Chocolate
 
 **Prompt:** *A cup of hot chocolate with marshmallows, cozy winter aesthetic, photorealistic.*
 
@@ -62,6 +62,6 @@ Below are a few sample images generated using the Stable Diffusion pre-trained m
 
 ### 📚 Cozy Library
 
-**Prompt:** *A cozy library with warm lighting, wooden bookshelves, comfortable reading chairs, photorealistic.*
+**Prompt:** *A cozy library with warm lighting, wooden bookshelves, photorealistic.*
 
 ![Library](generated_images/library.png)
