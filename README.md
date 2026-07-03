@@ -66,8 +66,14 @@ Below are a few sample images generated using the Stable Diffusion pre-trained m
 
 ![Library](generated_images/library.png)
 
+
+## Stable Diffusion Installation
+
+This screenshot shows the successful setup and loading of the Stable Diffusion model.
+![Stable Diffusion Installation](generated_images/Stable_diffusion_installation.png)
+
+
 ## Implementation Demo
 
 The screenshot below shows the text prompt, the image generation code, and the generated output in Google Colab.
-![Model_Loading_Screenshot.].(generated_images/Stable_diffusion_installation.png)
 ![Implementation Screenshot](generated_images/Implementation.png)
