@@ -32,3 +32,36 @@ The objective of this project is to generate high-quality images from natural la
 5. Generated images from the text prompts.
 6. Saved the generated images.
 7. Uploaded the notebook and generated outputs to GitHub.
+## Sample Outputs
+
+Below are a few sample images generated using the Stable Diffusion pre-trained model. Additional generated images are available in the **generated_images** folder.
+
+### 🚤 Boat
+
+**Prompt:** *A peaceful wooden boat floating on a calm lake during sunset, photorealistic.*
+
+![Boat](generated_images/Boat.png)
+
+---
+
+### 🦆 Duck in Puddle
+
+**Prompt:** *A tiny duck wearing a yellow raincoat standing in a puddle, photorealistic.*
+
+![Duck in Puddle](generated_images/Duck_in_puddle.png)
+
+---
+
+### ☕ Hot Chocolate
+
+**Prompt:** *A cup of hot chocolate with marshmallows, cozy winter aesthetic, photorealistic.*
+
+![Hot Chocolate](generated_images/Hot_Chocolate.png)
+
+---
+
+### 📚 Cozy Library
+
+**Prompt:** *A cozy library with warm lighting, wooden bookshelves, comfortable reading chairs, photorealistic.*
+
+![Library](generated_images/library.png)
