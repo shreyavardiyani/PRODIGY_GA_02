@@ -77,3 +77,14 @@ This screenshot shows the successful setup and loading of the Stable Diffusion m
 
 The screenshot below shows the text prompt, the image generation code, and the generated output in Google Colab.
 ![Implementation Screenshot](generated_images/Implementation.png)
+
+## Learning Outcomes
+
+Through this project, I:
+
+- Learned how pre-trained Stable Diffusion models generate images from natural language prompts.
+- Explored prompt engineering techniques to improve image quality and creativity.
+- Gained hands-on experience with Hugging Face Diffusers and PyTorch.
+- Understood the workflow of text-to-image generation using diffusion models.
+- Successfully implemented and executed the project using Google Colab.
+
