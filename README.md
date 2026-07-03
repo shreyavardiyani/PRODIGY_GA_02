@@ -1,2 +1,4 @@
-# PRODIGY_GA_02
-Image Generation with Pre-trained Models using Stable Diffusion.
+# Image Generation with Pre-trained Models
+## Task 02- Generative AI Internship @ Prodigy Infotech
+### Text-to-Image Generation using Pre-trained Diffusion Models
+
